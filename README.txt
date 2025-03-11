@@ -7,7 +7,5 @@ BUILDING THE PROJECT:
     4. Build the project using maven:
         mvn clean install
 RUNNING THE PROJECT:
-    1. Navigate to the target directory:
-        cd target
-    2. Run the project using the following command:
+    1. Run the project using the following command:
         mvn exec:java -Dexec.mainClass="com.company.App"
